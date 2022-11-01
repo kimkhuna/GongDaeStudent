@@ -99,6 +99,8 @@
 		6C47377D288900660000F8F9 /* GongDaeStudent */ = {
 			isa = PBXGroup;
 			children = (
+				6C96D55528D97B990050D234 /* ViewController */,
+				6C96D55628D97BA70050D234 /* ViewModel */,
 				6C803BAF28D9769E00F2481C /* Application */,
 				6C81B3E728950EC8001E93C1 /* Resource */,
 				6C803BB028D9776400F2481C /* Data */,
@@ -114,8 +116,6 @@
 		6C803BAF28D9769E00F2481C /* Application */ = {
 			isa = PBXGroup;
 			children = (
-				6C96D55628D97BA70050D234 /* ViewModel */,
-				6C96D55528D97B990050D234 /* ViewController */,
 				6C96D55228D97B380050D234 /* AppDelegate.swift */,
 				6C96D55028D97B2E0050D234 /* SceneDelegate.swift */,
 			);
